@@ -1,0 +1,2 @@
+# mini-project
+AI JOBS MARKET-SALARY COMPARISON
